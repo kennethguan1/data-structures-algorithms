@@ -4,7 +4,7 @@
 
 // You may assume all the characters consist of printable ascii characters.
 
- 
+ //
 
 // Example 1:
 
