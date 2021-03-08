@@ -53,6 +53,5 @@ const minSteps = function(s, t) {
       min += Math.abs(count[keys[i]]);
     }
   }
-  
   return min;
 };
